@@ -250,7 +250,7 @@ npm run code
 
 ## Contact
 
-N'hésitez pas à envoyer un message à Edgar Allan Bot, il suffit de cliquer [ici]('https://wa.me/56954838837')
+N'hésitez pas à envoyer un message à Edgar Allan Bot, il suffit de cliquer [ici]('https://wa.me/7900164375')
 
 
 Pour plus d'informations.. contactez-moi au [Whatsapp]('https://wa.me/351927285125')
