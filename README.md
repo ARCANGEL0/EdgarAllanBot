@@ -251,9 +251,10 @@ npm run code
 
 ## Contact
 
-To use 𝔈𝔡𝔤𝔞𝔯 ꓥ𝔩𝔩𝔞𝔫 𝔅𝔬𝔱
+To use 𝔈𝔡𝔤𝔞𝔯 ꓥ𝔩𝔩𝔞𝔫 𝔅𝔬𝔱 <br>
 Just click [here](https://wa.me/79001643752)
 </hr>
+
 For more information, you can reach out on my [Whatsapp](https://wa.me/351927285125)
 
 # License
@@ -264,12 +265,15 @@ Like many open-source projects, contributors are required to provide a Contribut
 
 <br>
 
+<center>
+   
 <p>
 <a href='https://ko-fi.com/J3J7WTYV7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <br>
 <strong>Happy Coding</strong> ❤️
 </p>
-
+ 
+</center>
 
 
 
