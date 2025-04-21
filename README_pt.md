@@ -247,10 +247,12 @@ npm run code
 
 ## Contato
 
-Fique a vontade para enviar uma mensagem ao Edgar Allan Bot, basta clicar [aqui]('https://wa.me/7900164375')
+Para usar o 𝔈𝔡𝔤𝔞𝔯 ꓥ𝔩𝔩𝔞𝔫 𝔅𝔬𝔱  
+Basta clicar [aqui](https://wa.me/79001643752)  
 
+</hr>  
 
-Para mais informações.. contacte me no [Whatsapp]('https://wa.me/351927285125')
+Para mais informações, você pode entrar em contato comigo pelo [Whatsapp](https://wa.me/351927285125)
 
 # Licença
 
@@ -260,12 +262,10 @@ Como muitos projetos de código aberto, é exigido que os colaboradores forneça
 
 <br>
 
-
-<p align="center">
- <a href="https://ko-fi.com/henryarcangelo">
-   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
- </a> <br>
-&nbsp;&nbsp;&nbsp; <strong>Happy Coding</strong> ❤️
+<p>
+<a href='https://ko-fi.com/J3J7WTYV7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<br>
+<strong>Happy Coding</strong> ❤️
 </p>
 
 
@@ -273,8 +273,7 @@ Como muitos projetos de código aberto, é exigido que os colaboradores forneça
 
 <p align="center">
  <a href="#projeto">
-   <img src="https://www.clker.com//cliparts/d/z/Z/4/g/U/arrow-down-hi.png" style="height: 5%; width:5%">
- </a> 
+   <img src="https://www.clker.com//cliparts/d/z/Z/4/g/U/arrow-down-hi.png" style="height: 2%; width:2%"> </a> 
 </p>
 
 
