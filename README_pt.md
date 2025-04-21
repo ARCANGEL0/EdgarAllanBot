@@ -247,7 +247,7 @@ npm run code
 
 ## Contato
 
-Para usar o 𝔈𝔡𝔤𝔞𝔯 ꓥ𝔩𝔩𝔞𝔫 𝔅𝔬𝔱  
+Para usar o 𝔈𝔡𝔤𝔞𝔯 ꓥ𝔩𝔩𝔞𝔫 𝔅𝔬𝔱  </br>
 Basta clicar [aqui](https://wa.me/79001643752)  
 
 </hr>  
@@ -262,12 +262,12 @@ Como muitos projetos de código aberto, é exigido que os colaboradores forneça
 
 <br>
 
+<center>
 <p>
 <a href='https://ko-fi.com/J3J7WTYV7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <br>
 <strong>Happy Coding</strong> ❤️
-</p>
-
+</p></center>
 
 
 
