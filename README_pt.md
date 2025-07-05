@@ -32,7 +32,7 @@
  </td>
  </tr>
  <tr><td><a href="README.md"><img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/us-flag.png" height="13"> English</a></td>
- <td><a href="README_fr.md"><img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" height="13"> Français</a></td>
+ <td><a href="README_fr.md"><img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/fr-flag.png" height="6"> Français</a></td>
  <td><a href="README_pt.md"><img src="https://raw.githubusercontent.com/ARCANGEL0/ARCANGEL0/master/img/br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
@@ -248,7 +248,7 @@ npm run code
 ## Contato
 
 Para usar o 𝔈𝔡𝔤𝔞𝔯 ꓥ𝔩𝔩𝔞𝔫 𝔅𝔬𝔱  </br>
-Basta clicar [aqui](https://wa.me/79001643752)  
+Basta clicar [aqui](https://wa.me/6285704061746)  
 
 </hr>  
 
