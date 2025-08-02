@@ -251,7 +251,7 @@ npm run code
 ## Contact
 
 Pour utiliser 𝔈𝔡𝔤𝔞𝔯 ꓥ𝔩𝔩𝔞𝔫 𝔅𝔬𝔱  </br>
-Cliquez simplement [ici](https://wa.me/6285704061746)  
+Cliquez simplement [ici](https://wa.me/639127796163)  
 
 </hr>  
 

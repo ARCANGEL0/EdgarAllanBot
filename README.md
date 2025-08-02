@@ -252,7 +252,7 @@ npm run code
 ## Contact
 
 To use 𝔈𝔡𝔤𝔞𝔯 ꓥ𝔩𝔩𝔞𝔫 𝔅𝔬𝔱 <br>
-Just click [here](https://wa.me/6285704061746)
+Just click [here](https://wa.me/639127796163)
 </hr>
 
 For more information, you can reach out on my [Whatsapp](https://wa.me/351927285125)
