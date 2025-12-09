@@ -1,0 +1,36 @@
+name: Edgar Allan Bot CI/CD
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Deploy to VPS
+        uses: appleboy/ssh-action@v0.1.5
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USER }}
+          key: ${{ secrets.VPS_KEY }}
+          script: |
+            set -e
+
+            cd /root/edgar-bot
+
+            echo "📥 Pulling latest code"
+            git pull origin main
+
+            echo "📦 Installing dependencies"
+            npm install
+
+            echo "🧪 Running syntax tests"
+            node test.js
+
+            echo "♻️ Restarting PM2 service"
+            pm2 restart edgar
+
+            echo "✅ Deploy successful"
